@@ -145,6 +145,12 @@ Aqui iremos aprender sobre várias técnicas e ferramentas que não são program
 em si, mas estão diretamente relacionadas, e sem elas não é possível desenvolver
 software profissionalmente no mercado de trabalho hoje.
 
-Entre as ferramentas falaremos sobre, Git, Docker, CDN, CI/CD, etc.
+Entre as ferramentas falaremos sobre:
+
+* [Git](https://git-scom.com)
+* [Docker](https://docs.docker.com/get-started/overview/)
+* CDN
+* CI/CD
+* Etc.
 
 > TODO: Este é um trabalho em andamento, e logo teremos mais informações aqui
